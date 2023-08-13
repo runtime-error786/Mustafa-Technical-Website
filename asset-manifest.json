@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Mustafa-Technical-Website/static/css/main.5cc63a47.css",
+    "main.js": "/Mustafa-Technical-Website/static/js/main.1526e3b0.js",
+    "static/media/I2.jpg": "/Mustafa-Technical-Website/static/media/I2.b66571d38c615376ff77.jpg",
+    "static/media/LO.jpg": "/Mustafa-Technical-Website/static/media/LO.4eede036c44aa31547c3.jpg",
+    "static/media/i4.jpg": "/Mustafa-Technical-Website/static/media/i4.a77c124b1a6229ee3b02.jpg",
+    "static/media/App1.jpg": "/Mustafa-Technical-Website/static/media/App1.cfe877e798e6a87a7880.jpg",
+    "static/media/i3.jpg": "/Mustafa-Technical-Website/static/media/i3.1499065a68ed2d740d19.jpg",
+    "static/media/LO1.jpg": "/Mustafa-Technical-Website/static/media/LO1.9f6b6f59af6286124382.jpg",
+    "index.html": "/Mustafa-Technical-Website/index.html",
+    "main.5cc63a47.css.map": "/Mustafa-Technical-Website/static/css/main.5cc63a47.css.map",
+    "main.1526e3b0.js.map": "/Mustafa-Technical-Website/static/js/main.1526e3b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cc63a47.css",
+    "static/js/main.1526e3b0.js"
+  ]
+}
