@@ -1,3 +1,6 @@
+Description:
+Simple portfolio
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +71,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://github.com/runtime-error786/Mustafa-Technical-Website/assets/123109871/33ac5fb3-707b-494d-b0e1-928463bb4fa7)
+![image](https://github.com/runtime-error786/Mustafa-Technical-Website/assets/123109871/96e50f88-40fc-4da8-ae85-1d5d7ac99cde)
+![image](https://github.com/runtime-error786/Mustafa-Technical-Website/assets/123109871/fdf62eec-5183-43e1-9d6a-e408dc8d328b)
+![image](https://github.com/runtime-error786/Mustafa-Technical-Website/assets/123109871/dee25ccf-2b41-4aa4-abe2-e950111773e3)
+
+
