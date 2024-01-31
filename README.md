@@ -1,5 +1,6 @@
 Description:
 Simple portfolio
+git clone https://github.com/your-username/folder_name.git
 
 # Getting Started with Create React App
 
